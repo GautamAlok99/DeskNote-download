@@ -95,7 +95,7 @@
 
 ## Download And Use ➡️💻 🥂
 
-1. Open the project Releases page.
+1. Open the project Releases page. https://github.com/GautamAlok99/DeskNote-download/releases/tag/v0.1.0
 2. Download the latest `.exe`.
 3. Run the installer/executable.
 4. Complete setup once, then start recording.
