@@ -33,22 +33,38 @@
 
 - Setup Wizard (5 steps)
 - Dashboard
+ <br>
+ <img src="assets/dashboard.png" width="100%" />
 - Recording Session (live timer + stop)
-- Recording Detail (video, transcript, summary actions)
-
-
 <br>
+<img src="assets/recordingsession.png" width="100%" />
+- Recording Detail (video, transcript, summary actions)
+<br>
+<img src="assets/recordingdetails.png" width="100%" />
+<br>
+<img src="assets/recordingdetails2.png" width="100%" />
 <br>
 
 ## Setup Wizard Steps 🧙‍♂️
 
-1. Welcome
+1. Welcome </n>
+<br>
+<img src="assets/Welcome.png" width="100%" />
+
 2. Prepare Recording Tools
+<br>
+<img src="assets/recordindtool.png" width="100%" />
+
 3. Device Check (microphone + screen/system audio)
+<br>
+ <img src="assets/device.png" width="100%" />
 4. Speech Setup (transcript model)
+<br>
+ <img src="assets/trancript.png" width="100%" />
 5. Summary Setup (API key + model verification)
 <br>
-<br>
+ <img src="assets/summary.png" width="100%" />
+
 
 
 ## Technology Used 💻 ⚙️ 
